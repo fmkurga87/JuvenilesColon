@@ -12,6 +12,8 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace JuvenilesColon.API.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class AuthController : ControllerBase
     {
         private readonly IAuthRepository _repo;
