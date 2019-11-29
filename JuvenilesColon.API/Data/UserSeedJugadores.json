@@ -1,0 +1,82 @@
+[
+    {
+        "Apellido": "Bruno",
+        "Nombre": "Maximiliano Gabriel",
+        "FechaNacimiento": "2003-01-16",
+        "FechaIngreso": "2017-02-01",
+        "Altura": "184",
+        "Fotos": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg/540px-Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg.png",
+            "fecha": "2019-09-21",
+            "Principal": true,
+            "descripcion": "Foto provisoria, de Wikipedia, en caso de no tener foto del jugador."
+        }
+        ],
+        "Localidad": "Santa Fe"
+    },
+    {
+        "Apellido": "Bolgiani",
+        "Nombre": "Lautaro Ariel",
+        "FechaNacimiento": "2003-07-08",
+        "FechaIngreso": "2017-02-01",
+        "Altura": "179",
+        "Fotos": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg/540px-Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg.png",
+            "fecha": "2019-09-21",
+            "Principal": true,
+            "descripcion": "Foto provisoria, de Wikipedia, en caso de no tener foto del jugador."
+        }
+        ],
+        "Localidad": "Santo Tome"
+    },
+    {
+        "Apellido": "Curcio",
+        "Nombre": "Rodrigo Nahuel",
+        "FechaNacimiento": "2003-07-23",
+        "FechaIngreso": "2017-02-01",
+        "Altura": "180",
+        "Fotos": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg/540px-Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg.png",
+            "fecha": "2019-09-21",
+            "Principal": true,
+            "descripcion": "Foto provisoria, de Wikipedia, en caso de no tener foto del jugador."
+        }
+        ],
+        "Localidad": "Esperanza"
+    },
+    {
+        "Apellido": "Zabala",
+        "Nombre": "Leandro Nicolas",
+        "FechaNacimiento": "2003-01-08",
+        "FechaIngreso": "2017-02-01",
+        "Altura": "182",
+        "Fotos": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg/540px-Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg.png",
+            "fecha": "2019-09-21",
+            "Principal": true,
+            "descripcion": "Foto provisoria, de Wikipedia, en caso de no tener foto del jugador."
+        }
+        ],
+        "Localidad": "Nelson"
+    },
+    {
+        "Apellido": "Rosatti",
+        "Nombre": "Marcelo Alejandro",
+        "FechaNacimiento": "2003-01-03",
+        "FechaIngreso": "2017-02-01",
+        "Altura": "176",
+        "Fotos": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg/540px-Escudo_del_Club_Atl%C3%A9tico_Col%C3%B3n.svg.png",
+            "fecha": "2019-09-21",
+            "Principal": true,
+            "descripcion": "Foto provisoria, de Wikipedia, en caso de no tener foto del jugador."
+        }
+        ],
+        "Localidad": "Rafaela"
+    }
+]
